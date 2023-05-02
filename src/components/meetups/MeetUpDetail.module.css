@@ -1,0 +1,13 @@
+.details img {
+  width: 100%;
+}
+
+.title,
+.address,
+.description {
+  margin-bottom: 0.5rem;
+}
+.content {
+  margin-top: 1rem;
+  text-align: center;
+}
